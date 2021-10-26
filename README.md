@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @lpwanw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lê Phương Tây (lpwwanw)
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Spring, Angular
+- 📫 How to reach me
+  + phone: +84393203261
+  + email: lp.wanw@gmail.com
+  + fb: fb.com/vinsrayleigh
 
 <!---
 lpwanw/lpwanw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
