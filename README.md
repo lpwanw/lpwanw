@@ -1,5 +1,7 @@
 🌟 **Hello there! I'm Lê Phương Tây (aka lpwanw)** 🌟
 
+#### Checkout [my playground](https://lpwanw.github.io/personal_project_fe/)
+
 🚀 **About Me**:
 - 💼 Code Enthusiast with a penchant for innovation.
 - 🌐 Exploring new technologies and developing software solutions and quick hacks.
