@@ -16,7 +16,7 @@
 - 🖋 Diving deep into the world of Ruby – always excited to learn more!
 - 📖 Mastering the art of relationship-building (yes, including finding a girlfriend 😉).
 
-📬 **Let's Connect!**:
+📬 **Let's Connect!**: abcd
 - 📞 Phone: +84393203261
 - 📧 Email: [lp.wanw@gmail.com](mailto:lp.wanw@gmail.com)
 - 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
