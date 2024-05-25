@@ -22,5 +22,5 @@
 - 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
 ## [My github at  <img src="https://sun-asterisk.vn/wp-content/uploads/2020/10/logo-sun@2x.png" width="100" title="hover text">](https://github.com/taylp-2865)
 <!--START_SECTION:auto_commit-->
-I declare to the whole world, the Bosnians are under protection. No one can disturb these people nor their churches, nor harm them. Nobody in the world will touch these people and not harm them.
+You can have everything in the world and still be the loneliest man. And that is the most bitter type of loneliness, success has brought me world idolisation and millions of pounds. But it's prevented me from having the one thing we all need: A loving, ongoing relationship.
 <!--END_SECTION:auto_commit-->
