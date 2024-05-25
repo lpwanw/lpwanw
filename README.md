@@ -21,3 +21,6 @@
 - 📧 Email: [lp.wanw@gmail.com](mailto:lp.wanw@gmail.com)
 - 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
 ## [My github at  <img src="https://sun-asterisk.vn/wp-content/uploads/2020/10/logo-sun@2x.png" width="100" title="hover text">](https://github.com/taylp-2865)
+<!--START_SECTION:auto_commit-->
+I'm the kind of boy that can fall in love with any girl because I love with the heart, not the eyes.
+<!--END_SECTION:auto_commit-->
