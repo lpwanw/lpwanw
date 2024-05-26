@@ -3,9 +3,19 @@
 ### Checkout [WebSite](https://tayne.tech/)
 ### Checkout [my playground](https://lpwanw.github.io/personal_project_fe/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lpwanw&theme=dark&border_radius=8.4)](https://git.io/streak-stats)
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://streak-stats.demolab.com?user=lpwanw&theme=dark&border_radius=8.4" />
+</td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpwanw&size_weight=0.5&count_weight=0.5)
+<td width="50%" align="center">
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lpwanw&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8" />
+</td>
+</tr>
+</table>
 
 📬 **Let's Connect!**:
 - 📞 Phone: +84393203261
