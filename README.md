@@ -21,5 +21,5 @@
 - 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
 ## [My github at  <img src="https://sun-asterisk.vn/wp-content/uploads/2020/10/logo-sun@2x.png" width="100" title="hover text">](https://github.com/taylp-2865)
 <!--START_SECTION:auto_commit-->
-At this stage, some people might advise me to focus on pleasure and avoid any kind of pain—But where can we hide from pain when it finds us unprepared?
+The only person who is educated is the one who has learned how to learn and change.
 <!--END_SECTION:auto_commit-->
