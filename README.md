@@ -5,6 +5,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lpwanw&theme=dark&border_radius=8.4)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 📬 **Let's Connect!**:
 - 📞 Phone: +84393203261
 - 📧 Email: [lp.wanw@gmail.com](mailto:lp.wanw@gmail.com)
