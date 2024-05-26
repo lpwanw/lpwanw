@@ -21,5 +21,5 @@
 - 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
 ## [My github at  <img src="https://sun-asterisk.vn/wp-content/uploads/2020/10/logo-sun@2x.png" width="100" title="hover text">](https://github.com/taylp-2865)
 <!--START_SECTION:auto_commit-->
-The only person who is educated is the one who has learned how to learn and change.
+To achieve this, we have to distinctively promote continuing and lifelong education, the form of education which is responsive to individual needs and preferences. With educational facilities and a variety of educational programs available, people can make use of the learning centre as a place to acquire technical skills or knowledge adaptive to their work and daily life activities.
 <!--END_SECTION:auto_commit-->
