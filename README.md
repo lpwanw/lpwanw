@@ -25,5 +25,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-To achieve this, we have to distinctively promote continuing and lifelong education, the form of education which is responsive to individual needs and preferences. With educational facilities and a variety of educational programs available, people can make use of the learning centre as a place to acquire technical skills or knowledge adaptive to their work and daily life activities.
+Wake up in the morning, now you doing the impossible Find out what's important, now you're feeling philosophical When I die, I'll pack my bags, move somewhere more affordable Isn't life horrible? I think that life is horrible
 <!--END_SECTION:auto_commit-->
