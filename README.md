@@ -25,5 +25,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Wake up in the morning, now you doing the impossible Find out what's important, now you're feeling philosophical When I die, I'll pack my bags, move somewhere more affordable Isn't life horrible? I think that life is horrible
+There are two great days in a person's life - the day we are born and the day we discover why.
 <!--END_SECTION:auto_commit-->
