@@ -1,5 +1,7 @@
 🌟 **Hello there! I'm Lê Phương Tây (aka lpwanw)** 🌟
 
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=lpwanw.lpwanw)
+
 ### Checkout [WebSite](https://tayne.tech/)
 ### Checkout [my playground](https://lpwanw.github.io/personal_project_fe/)
 
