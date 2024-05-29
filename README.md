@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-There are two great days in a person's life - the day we are born and the day we discover why.
+I'm not saying I'm gonna change the world, but I guarantee that I will spark the brain that will change the world.
 <!--END_SECTION:auto_commit-->
