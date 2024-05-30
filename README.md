@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I'm not saying I'm gonna change the world, but I guarantee that I will spark the brain that will change the world.
+The thought of suicide is a great consolation: by means of it one gets through many a dark night.
 <!--END_SECTION:auto_commit-->
