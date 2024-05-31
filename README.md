@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The thought of suicide is a great consolation: by means of it one gets through many a dark night.
+I'm having too much fun today to worry about tomorrow.
 <!--END_SECTION:auto_commit-->
