@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I'm having too much fun today to worry about tomorrow.
+Blind belief in authority is the greatest enemy of truth.
 <!--END_SECTION:auto_commit-->
