@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Blind belief in authority is the greatest enemy of truth.
+Unless I am myself, I am nobody.
 <!--END_SECTION:auto_commit-->
