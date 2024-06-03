@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Unless I am myself, I am nobody.
+Great minds discuss ideas, average minds discuss events, small minds discuss people. 
 <!--END_SECTION:auto_commit-->
