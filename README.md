@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Great minds discuss ideas, average minds discuss events, small minds discuss people. 
+I didn't choose the thug life, the thug life chose me.
 <!--END_SECTION:auto_commit-->
