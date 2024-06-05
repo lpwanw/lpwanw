@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I didn't choose the thug life, the thug life chose me.
+If the world really looks like that I will paint no more!
 <!--END_SECTION:auto_commit-->
