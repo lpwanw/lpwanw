@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-If the world really looks like that I will paint no more!
+She's mad, but she's magic. There's no lie in her fire.
 <!--END_SECTION:auto_commit-->
