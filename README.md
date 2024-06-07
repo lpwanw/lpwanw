@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-She's mad, but she's magic. There's no lie in her fire.
+A single death is a tragedy; a million deaths is a statistic.
 <!--END_SECTION:auto_commit-->
