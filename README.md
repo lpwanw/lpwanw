@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-A single death is a tragedy; a million deaths is a statistic.
+Leave this world a little better than you found it.
 <!--END_SECTION:auto_commit-->
