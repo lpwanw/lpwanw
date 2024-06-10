@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-This generation has lost the true meaning of romance. There are so many songs that disrespect women. You can’t treat the woman you love as a piece of meat. You should treat your love like a princess. Give her love songs, something with real meaning. Maybe I’m old fashioned but to respect the woman you love should be a priority.
+But it is a well-known maxim of war that whoever tries to hold on to everything at once, finishes up by holding nothing at all.
 <!--END_SECTION:auto_commit-->
