@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-But it is a well-known maxim of war that whoever tries to hold on to everything at once, finishes up by holding nothing at all.
+With regard to the learning society, as I mentioned earlier, optimistically, people from all walks of life should be able to have equal access to education according to their needs and potentials.
 <!--END_SECTION:auto_commit-->
