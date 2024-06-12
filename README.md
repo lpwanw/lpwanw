@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-With regard to the learning society, as I mentioned earlier, optimistically, people from all walks of life should be able to have equal access to education according to their needs and potentials.
+I really am… shinobi trash. But the one thing I still learned is this. That void is something that everyone helps you fill. Just because you face adversity and hardships, is no reason to give up on this world. A person willing to throw away all those memories… of their friends and comrades, will never find peace of mind. Resorting to something like that isn't going to bury that hole. If you persevere and endure, someone will be there to support you!
 <!--END_SECTION:auto_commit-->
