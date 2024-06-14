@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I'm the kind of boy that can fall in love with any girl because I love with the heart, not the eyes.
+I think the hardest thing in life is to forgive. Hate is self destructive. If you hate somebody, you're not hurting the person you hate, you're hurting yourself. It's a healing, actually, it's a real healing… forgiveness.
 <!--END_SECTION:auto_commit-->
