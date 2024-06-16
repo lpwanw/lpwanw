@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Never lose heart while pursuing the path of trust. Live a principled life.
+Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love.
 <!--END_SECTION:auto_commit-->
