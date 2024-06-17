@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love.
+To exist is not a choice, but a gift. Living to your full potential is a personal choice you must make after finding your true Self.
 <!--END_SECTION:auto_commit-->
