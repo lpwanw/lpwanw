@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-To exist is not a choice, but a gift. Living to your full potential is a personal choice you must make after finding your true Self.
+Fear no man but only God
 <!--END_SECTION:auto_commit-->
