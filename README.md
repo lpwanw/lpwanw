@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Fear no man but only God
+Things are beautiful if you love them.
 <!--END_SECTION:auto_commit-->
