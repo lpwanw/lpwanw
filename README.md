@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Things are beautiful if you love them.
+People generally don't change unless a traumatic event occurs in their life which triggers the brain into new action.
 <!--END_SECTION:auto_commit-->
