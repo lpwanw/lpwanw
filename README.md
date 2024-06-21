@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-People generally don't change unless a traumatic event occurs in their life which triggers the brain into new action.
+Teachers need to be trained on how children learn, not only how to solve mathematical problems. They must know how to make learners well understand the New Math and enable them to solve mathematical problems.
 <!--END_SECTION:auto_commit-->
