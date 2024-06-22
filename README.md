@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Teachers need to be trained on how children learn, not only how to solve mathematical problems. They must know how to make learners well understand the New Math and enable them to solve mathematical problems.
+Among those corporeal glances, in the midst of those libidinous flirtations and those wild impulses, there were no doubts or excess verses, not even a bad song…
 <!--END_SECTION:auto_commit-->
