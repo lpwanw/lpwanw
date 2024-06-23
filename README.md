@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Among those corporeal glances, in the midst of those libidinous flirtations and those wild impulses, there were no doubts or excess verses, not even a bad song…
+Man invented clothing to cover the superficial and to discover the inside.
 <!--END_SECTION:auto_commit-->
