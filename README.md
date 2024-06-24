@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Man invented clothing to cover the superficial and to discover the inside.
+Sweat saves blood, blood saves lives, but brains saves both.
 <!--END_SECTION:auto_commit-->
