@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Sweat saves blood, blood saves lives, but brains saves both.
+Bing? Who the fuck uses Bing?
 <!--END_SECTION:auto_commit-->
