@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Bing? Who the fuck uses Bing?
+It is often said that children do not read. Well, I'd say that if adults don't start reading, it's not fair to accuse little ones of not reading. They must see us with a book in our hands.
 <!--END_SECTION:auto_commit-->
