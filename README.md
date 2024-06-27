@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-It is often said that children do not read. Well, I'd say that if adults don't start reading, it's not fair to accuse little ones of not reading. They must see us with a book in our hands.
+Both individuals and communities must be able to possess the skills and knowledge required to function productively in the changing world.
 <!--END_SECTION:auto_commit-->
