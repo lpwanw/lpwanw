@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Both individuals and communities must be able to possess the skills and knowledge required to function productively in the changing world.
+Do not compare yourself to others. If you do so, you are insulting yourself.
 <!--END_SECTION:auto_commit-->
