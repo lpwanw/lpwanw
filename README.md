@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Do not compare yourself to others. If you do so, you are insulting yourself.
+Speak low, if you speak love.
 <!--END_SECTION:auto_commit-->
