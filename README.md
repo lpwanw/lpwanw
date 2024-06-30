@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Speak low, if you speak love.
+My spirit is warmed up with the visions of my destiny; while my heart is burning with the desires to achieve them all. Those thoughts have produced a thick smoke that's clouding my mind from focusing in the present moment.
 <!--END_SECTION:auto_commit-->
