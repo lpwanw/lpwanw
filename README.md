@@ -27,5 +27,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-My spirit is warmed up with the visions of my destiny; while my heart is burning with the desires to achieve them all. Those thoughts have produced a thick smoke that's clouding my mind from focusing in the present moment.
+Sensitiveness to beauty of the world continues, and efforts to preserve it were also made in the past.
 <!--END_SECTION:auto_commit-->
