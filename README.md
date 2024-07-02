@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Sensitiveness to beauty of the world continues, and efforts to preserve it were also made in the past.
+Pure philosophy cannot be taught in school, it has to start as a self-journey without filling your head with other people's ideologies.
 <!--END_SECTION:auto_commit-->
