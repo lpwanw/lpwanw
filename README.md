@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Pure philosophy cannot be taught in school, it has to start as a self-journey without filling your head with other people's ideologies.
+I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely. No one knows me or loves me completely. I have only myself
 <!--END_SECTION:auto_commit-->
