@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely. No one knows me or loves me completely. I have only myself
+…over time he would realize that the higher he was, the less danger he was in and the more he controlled the ever-ready mass.
 <!--END_SECTION:auto_commit-->
