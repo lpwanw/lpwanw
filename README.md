@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-…over time he would realize that the higher he was, the less danger he was in and the more he controlled the ever-ready mass.
+I always open my heart. If you don’t open your heart, you cannot absorb anything and it’s not interesting. The driving force for growth is to have an open heart‬.
 <!--END_SECTION:auto_commit-->
