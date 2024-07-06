@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I always open my heart. If you don’t open your heart, you cannot absorb anything and it’s not interesting. The driving force for growth is to have an open heart‬.
+Be happy because you're living today, not today, but tomorrow because of your determination.
 <!--END_SECTION:auto_commit-->
