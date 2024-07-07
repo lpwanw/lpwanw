@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Be happy because you're living today, not today, but tomorrow because of your determination.
+Runnin' away from you takes time and pain And I don't even want to So, I'm gettin' high all week without you Poppin' pills, thinkin' about you
 <!--END_SECTION:auto_commit-->
