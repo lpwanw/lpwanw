@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Runnin' away from you takes time and pain And I don't even want to So, I'm gettin' high all week without you Poppin' pills, thinkin' about you
+We do not surrender — we win or die.
 <!--END_SECTION:auto_commit-->
