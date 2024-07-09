@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-We do not surrender — we win or die.
+You never know how strong you are until being strong is your only choice.
 <!--END_SECTION:auto_commit-->
