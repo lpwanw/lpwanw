@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-You never know how strong you are until being strong is your only choice.
+Our stories may be singular, but our destination is shared.
 <!--END_SECTION:auto_commit-->
