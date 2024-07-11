@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Our stories may be singular, but our destination is shared.
+Start where you are. Use what you have. Do what you can.
 <!--END_SECTION:auto_commit-->
