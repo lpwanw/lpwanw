@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Start where you are. Use what you have. Do what you can.
+The game is not about becoming somebody, it's about becoming nobody.
 <!--END_SECTION:auto_commit-->
