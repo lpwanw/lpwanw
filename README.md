@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The game is not about becoming somebody, it's about becoming nobody.
+Communism doesn't work because people like to own stuff.
 <!--END_SECTION:auto_commit-->
