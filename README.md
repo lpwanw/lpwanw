@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Communism doesn't work because people like to own stuff.
+If you are emotionally attached to your tribe, religion or political leaning to the point that truth and justice become secondary considerations, your education and exposure is useless. If you cannot reason beyond petty sentiments, you are a liability.
 <!--END_SECTION:auto_commit-->
