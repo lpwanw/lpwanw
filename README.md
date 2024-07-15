@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-If you are emotionally attached to your tribe, religion or political leaning to the point that truth and justice become secondary considerations, your education and exposure is useless. If you cannot reason beyond petty sentiments, you are a liability.
+Suddenly, as the sun rose, the poem flew without an owner, while he faded away like a fiction called a “story.”
 <!--END_SECTION:auto_commit-->
