@@ -30,5 +30,6 @@
 
   
 <!--START_SECTION:auto_commit-->
-Suddenly, as the sun rose, the poem flew without an owner, while he faded away like a fiction called a “story.”
+You know it's funny, when it rains it pours
+they got money for wars, but can't feed the poor.
 <!--END_SECTION:auto_commit-->
