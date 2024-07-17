@@ -30,6 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-You know it's funny, when it rains it pours
-they got money for wars, but can't feed the poor.
+Its hard to be a diamond in a rhinestone world.
 <!--END_SECTION:auto_commit-->
