@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Its hard to be a diamond in a rhinestone world.
+Artistry is founded upon absolute technical prowess.
 <!--END_SECTION:auto_commit-->
