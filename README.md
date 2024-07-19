@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Artistry is founded upon absolute technical prowess.
+The thought of suicide is a great consolation: by means of it one gets through many a dark night.
 <!--END_SECTION:auto_commit-->
