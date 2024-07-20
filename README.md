@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The thought of suicide is a great consolation: by means of it one gets through many a dark night.
+Fear is stronger than love, remember that. Fear is stronger than love, all that love I gave didn't mean nothing when it came to fear.
 <!--END_SECTION:auto_commit-->
