@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Fear is stronger than love, remember that. Fear is stronger than love, all that love I gave didn't mean nothing when it came to fear.
+A genius is born whenever he proves many facts wrong.
 <!--END_SECTION:auto_commit-->
