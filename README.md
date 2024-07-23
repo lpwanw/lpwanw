@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Here is my secret. It is very simple. It is only with the heart that one can see rightly; What is essential is invisible to the eye.
+It is never too late to be what you might have been.
 <!--END_SECTION:auto_commit-->
