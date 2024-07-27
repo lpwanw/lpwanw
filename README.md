@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-When Agatha already felt like she was dying, for a second she thought about turning him into a eunuch for life, in self-defense, she would argue.
+Music makes things hurt less.
 <!--END_SECTION:auto_commit-->
