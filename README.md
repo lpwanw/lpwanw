@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Music makes things hurt less.
+Beauty is bought by judgement of the eye.
 <!--END_SECTION:auto_commit-->
