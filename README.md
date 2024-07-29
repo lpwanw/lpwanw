@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Beauty is bought by judgement of the eye.
+The difference between where you are now and where you want to be is your reasoning capacity and actions.
 <!--END_SECTION:auto_commit-->
