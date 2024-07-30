@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The difference between where you are now and where you want to be is your reasoning capacity and actions.
+Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.
 <!--END_SECTION:auto_commit-->
