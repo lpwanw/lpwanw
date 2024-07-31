@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.
+I don't care that they stole my idea.. I care that they don't have any of their own
 <!--END_SECTION:auto_commit-->
