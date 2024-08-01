@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-I don't care that they stole my idea.. I care that they don't have any of their own
+Just keep moving forward and don't give a sh** about what anybody thinks. Do what you have to do, for you.
 <!--END_SECTION:auto_commit-->
