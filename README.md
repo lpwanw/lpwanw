@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Just keep moving forward and don't give a sh** about what anybody thinks. Do what you have to do, for you.
+If we teach today’s students as we taught yesterday’s, we rob them of tomorrow.
 <!--END_SECTION:auto_commit-->
