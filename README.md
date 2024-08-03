@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-If we teach today’s students as we taught yesterday’s, we rob them of tomorrow.
+It isn't about "games", for me, personally, and it never really was. It was about creating something- anything- far bigger than yourself.
 <!--END_SECTION:auto_commit-->
