@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-It isn't about "games", for me, personally, and it never really was. It was about creating something- anything- far bigger than yourself.
+The chance to overcome another challenge is simply, as I always feel, a blessing.
 <!--END_SECTION:auto_commit-->
