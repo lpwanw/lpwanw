@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The chance to overcome another challenge is simply, as I always feel, a blessing.
+The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
 <!--END_SECTION:auto_commit-->
