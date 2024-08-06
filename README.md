@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
+Don't ever change yourself to impress someone. They should be impress that you don't change to please others
 <!--END_SECTION:auto_commit-->
