@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Why are women… so much more interesting to men than men are to women?
+It isn't what we say or think that defines us, but what we do.
 <!--END_SECTION:auto_commit-->
