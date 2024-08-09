@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-It isn't what we say or think that defines us, but what we do.
+You must allow your free-will to roam as freely as you want and delve deep into your dreams. Never limit yourself nor live according to the appetite of someone else.
 <!--END_SECTION:auto_commit-->
