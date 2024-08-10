@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-You must allow your free-will to roam as freely as you want and delve deep into your dreams. Never limit yourself nor live according to the appetite of someone else.
+Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 <!--END_SECTION:auto_commit-->
