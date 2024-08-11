@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
 <!--END_SECTION:auto_commit-->
