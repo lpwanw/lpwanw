@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
 <!--END_SECTION:auto_commit-->
