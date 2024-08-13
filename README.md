@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
+He who would learn to fly one day must first learn to walk and run and climb and dance; one cannot fly into flying.
 <!--END_SECTION:auto_commit-->
