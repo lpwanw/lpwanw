@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-He who would learn to fly one day must first learn to walk and run and climb and dance; one cannot fly into flying.
+…all of the philosophers put together are not worth a single saint.
 <!--END_SECTION:auto_commit-->
