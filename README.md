@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-…all of the philosophers put together are not worth a single saint.
+If opportunity doesn't knock, build a door
 <!--END_SECTION:auto_commit-->
