@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-If opportunity doesn't knock, build a door
+Never was anything great achieved without danger.
 <!--END_SECTION:auto_commit-->
