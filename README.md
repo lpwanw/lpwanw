@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-Never was anything great achieved without danger.
+There are two types of poor people, those who are poor together and those who are poor alone. The first are the true poor, the others are rich people out of luck.
 <!--END_SECTION:auto_commit-->
