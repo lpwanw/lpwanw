@@ -30,5 +30,5 @@
 
   
 <!--START_SECTION:auto_commit-->
-There are two types of poor people, those who are poor together and those who are poor alone. The first are the true poor, the others are rich people out of luck.
+I don't want to achieve immortality through my work... I want to achieve it through not dying.
 <!--END_SECTION:auto_commit-->
