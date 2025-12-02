@@ -1,34 +1,55 @@
-🌟 **Hello there! I'm Lê Phương Tây (aka lpwanw)** 🌟
+# Le Phuong Tay
 
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=lpwanw.lpwanw)
-<p align="center">
-<a href="https://app.daily.dev/lpwanw" align="center"><img src="https://api.daily.dev/devcards/v2/C45gygVQCQENc8etuxS1l.png?r=2dm&type=wide" width="652" alt="Lê Phương Tây's Dev Card"/></a>
-</p>
+**Full-Stack Ruby on Rails Engineer** | 4 Years Experience
 
-### Checkout [WebSite](https://tayne.tech/)
-### Checkout [my playground](https://lpwanw.github.io/personal_project_fe/)
+[![Live CV](https://img.shields.io/badge/CV-Live-blue?style=flat-square)](https://lpwanw.github.io/CV/)
+[![GitHub](https://img.shields.io/badge/GitHub-lpwanw-181717?style=flat-square&logo=github)](https://github.com/lpwanw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lpwanw-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lpwanw/)
 
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://streak-stats.demolab.com?user=lpwanw&theme=dark&border_radius=8.4" />
-</td>
+## About
 
-<td width="50%" align="center">
-  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lpwanw&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8" />
-</td>
-</tr>
-</table>
+Ruby on Rails engineer specializing in scalable SaaS applications, workflow engines, and AI integrations. Proven track record leading development teams at Japanese tech companies and delivering end-to-end solutions.
 
-📬 **Let's Connect!**:
-- 📞 Phone: +84393203261
-- 📧 Email: [lp.wanw@gmail.com](mailto:lp.wanw@gmail.com)
-- 📘 Facebook: [fb.com/vinsrayleigh](https://fb.com/vinsrayleigh)
+## Technical Skills
 
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Ruby on Rails, Ruby, ActiveRecord, GraphQL, RESTful API, Sidekiq |
+| **Database** | PostgreSQL, MySQL, DynamoDB, Redis, AWS S3 |
+| **Frontend** | JavaScript, TypeScript, React, Hotwire/Stimulus, Tailwind CSS |
+| **DevOps** | Docker, AWS (S3, EC2, Lambda, SNS, SES), Git, CI/CD, RSpec/TDD |
 
-  
-<!--START_SECTION:auto_commit-->
-I don't want to achieve immortality through my work... I want to achieve it through not dying.
-<!--END_SECTION:auto_commit-->
+## Experience
+
+### TINYpulse by WebMD Health Services (2024 - Present)
+Employee engagement platform using Rails + React microservices architecture.
+
+### SUN* INC. - Japanese Tech Company (2022 - 2023)
+Led healthcare application development for Japanese clients. Mentored team of 4 developers.
+
+### Freelance Projects (Upwork)
+
+**Novalexi** - IP Management SaaS Platform
+- Solo backend developer (end-to-end)
+- Workflow Engine with hydration templates
+- AI integration using ruby_llm
+
+**Feedback Robot** - Survey & Feedback Platform
+- Solo backend developer (end-to-end)
+- Workflow Engine with webhook event triggers
+
+## View CV
+
+**Live:** https://lpwanw.github.io/CV/
+
+Features:
+- Responsive design (Tailwind CSS)
+- PDF export with compact layout
+- ATS-optimized content
+
+## Contact
+
+- **Email:** lp.wanw@gmail.com
+- **Phone:** +84 393 203 261
+- **GitHub:** [github.com/lpwanw](https://github.com/lpwanw)
+- **LinkedIn:** [linkedin.com/in/lpwanw](https://www.linkedin.com/in/lpwanw/)
