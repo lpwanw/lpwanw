@@ -2,7 +2,7 @@
 
 **Full-Stack Ruby on Rails Engineer** | 4 Years Experience
 
-[![Live CV](https://img.shields.io/badge/CV-Live-blue?style=flat-square)](https://lpwanw.github.io/CV/)
+[![Live CV](https://img.shields.io/badge/CV-Live-blue?style=flat-square)](http://cv.leewestern.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-lpwanw-181717?style=flat-square&logo=github)](https://github.com/lpwanw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lpwanw-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lpwanw/)
 
